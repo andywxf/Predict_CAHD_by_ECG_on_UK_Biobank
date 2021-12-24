@@ -18,6 +18,4 @@ This project contains 4 code files and a data set information file, which are br
 
    Deep learning method based on merged beat
    
-5. CAHD_manual_feature.csv
-
-   The ECG ID used in the project comes from the UK biobank and the extracted clinical features. For copyright reasons, please download the raw ECG file from the UK biobank. 
+ For copyright reasons, please download the raw ECG file from the UK biobank. 
