@@ -17,5 +17,6 @@ This project contains 4 code files and a data set information file, which are br
 4. CAHD_merged_beat_model
 
    Deep learning method based on merged beat
-   
- For copyright reasons, please download the raw ECG file from the UK biobank. 
+
+5. CAHD_Sample_info.csv   
+ All the sample information used in the experiment, the label is 1 is the CAHD sample. For copyright reasons, please download the raw ECG file from the UK biobank. 
