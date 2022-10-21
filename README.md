@@ -19,4 +19,7 @@ This project contains 4 code files and a data set information file, which are br
    Deep learning method based on merged beat
 
 5. CAHD_Sample_info.csv   
- All the sample information used in the experiment, the label is 1 is the CAHD sample. For copyright reasons, please download the raw ECG file from the UK biobank. 
+ All the sample information used in the experiment, the label  1 is the CAHD sample. For copyright reasons, please download the raw ECG file from the UK biobank. 
+
+6. Supplement file.pdf
+ Description of 34 clinical features and parameters of the Xgboost method.
