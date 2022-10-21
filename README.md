@@ -10,16 +10,13 @@ This project contains 4 code files and a data set information file, which are br
 
    Traditional machine learning methods are used to predict CAHD
    
-3. CAHD_raw_signal_model
-
-   Deep learning method based on original signal
    
-4. CAHD_merged_beat_model
+3. CAHD_merged_beat_model
 
    Deep learning method based on merged beat
 
-5. CAHD_Sample_info.csv   
+4. CAHD_Sample_info.csv   
  All the sample information used in the experiment, the label  1 is the CAHD sample. For copyright reasons, please download the raw ECG file from the UK biobank. 
 
-6. Supplement file.pdf
+5. Supplement file.pdf
  Description of 34 clinical features and parameters of the Xgboost method.
